@@ -17,3 +17,4 @@ tax=$(expr $salary*0.2 | bc)
 fi
 
 exit 0
+echo "Done"
